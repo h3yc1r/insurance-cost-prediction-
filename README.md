@@ -5,10 +5,15 @@ Machine Learning project predicting insurance costs using polynomial regression.
 insurance-cost-prediction/
 │
 ├── data/                # Dataset files (e.g., insurance.csv)
+
 ├── notebooks/           # Jupyter notebooks for EDA and modeling
+
 ├── models/              # Saved ML models (optional)
+
 ├── visuals/             # Plots and visualizations (optional)
+
 ├── README.md            # Project documentation
+
 └── requirements.txt     # Required libraries
 
 
